@@ -11,7 +11,7 @@
 
 ![apple-logo-screensaver-posted-by-sarah-mercado](https://user-images.githubusercontent.com/102597481/224768916-41c7958a-0a3d-4a95-8316-608b866ab022.gif)
 
-🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,6 +21,45 @@
 <img align="left" alt="Xcode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <br />
 
-   
-   <p align="center">
-<img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" height="30" width="100%">
+#
+
+### 🛠️ Skills
+
+~ <span style="color: purple"> Swift </span>
+
+~ Xcode
+
+~ UIKit
+
+~ Auto Layout
+
+~ Networking: (URLSession, JSON, API)
+
+~ Multithreading, GCD
+
+~ Realm, UserDefaults, KeyChain
+
+~ Git
+
+~ Design Patterns: (MVC, MVVM, Delegate, Observer)
+
+~ OOP/POP/SOLID
+
+~ Cocoapods, SPM
+
+#
+
+### 📊 Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=haze998&theme=dark)](https://git.io/streak-stats)
+#
+
+### ✉️ Contacts
+
+[<img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/evgeniy-d-b11aa825a/)  [<img height=50 
+src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>]()
+
+#
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=haze998&color=brightgreen&style=for-the-badge">
