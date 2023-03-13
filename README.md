@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Eugene Dotsenko
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&background=FF939F00&vCenter=true&width=435&lines=%EF%A3%BF+IOS+Developer!;Mobile+development+enjoyer!;Love+Swift!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&width=435&lines=%EF%A3%BF+IOS+Developer!;Mobile+development+enjoyer!;Love+Swift!)](https://git.io/typing-svg)
 
  <p align="left">
       <a href="https://github.com/haze998?tab=followers">
