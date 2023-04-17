@@ -49,6 +49,26 @@
 
 #
 
+# 🛠️ Projects
+
+### [TMDB App](https://github.com/haze998/TheMovieDBapp)
+
+![](https://user-images.githubusercontent.com/102597481/232600187-16efba8c-efe8-473d-ac91-002c2b435be9.png)
+
+<!--📏LINE-->
+<p align="center">
+
+### [SpaceX App](https://github.com/haze998/SpaceXApp)
+
+![](https://user-images.githubusercontent.com/102597481/232601071-6afe8027-b432-48dc-904e-adc370c011a2.png)
+
+<!--📏LINE-->
+<p align="center">
+
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+<h4 align="left">
+</h4>
+
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=haze998&theme=dark)](https://git.io/streak-stats)
 #
