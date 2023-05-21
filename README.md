@@ -37,6 +37,8 @@
 
 ~ Multithreading, GCD
 
+~ Firebase/Firestore
+
 ~ Realm, UserDefaults, KeyChain
 
 ~ Git
