@@ -49,7 +49,7 @@
 
 ~ Git
 
-~ Design Patterns: (MVC, MVVM, Delegate, Observer)
+~ Design Patterns: (MVC, MVVM + С, Delegate, Observer)
 
 ~ OOP/POP/SOLID
 
