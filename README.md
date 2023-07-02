@@ -62,6 +62,14 @@
 
 # 🛠️ Projects
 
+### [BetMate App](https://github.com/haze998/BetMateApp)
+
+![](https://user-images.githubusercontent.com/102597481/250352831-114c1d85-3779-4be1-ba52-da8d0e3767fd.png)
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### [TMDB App](https://github.com/haze998/TheMovieDBapp)
 
 ![](https://user-images.githubusercontent.com/102597481/232600187-16efba8c-efe8-473d-ac91-002c2b435be9.png)
